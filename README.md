@@ -103,6 +103,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![Calculator](https://github.com/Aakashraj04/standard-calculator/assets/121117266/d848e272-ad8b-42c2-817d-3b3223a1219c)
 
+## Server Output
+![image](https://github.com/Aakashraj04/standard-calculator/assets/121117266/f583522b-1622-4768-8772-28fd092c0bc9)
 
 ## Result:
 Standard Calculator is ready to use.
